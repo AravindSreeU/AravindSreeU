@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AravindSreeU
-- 👀 I’m interested in Java Programming
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Python Programming
+- 🌱 I’m currently learning Python
 - 📫 Reach me at uaravindsree@gmail.com
 
 <!---

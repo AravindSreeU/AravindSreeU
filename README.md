@@ -9,7 +9,7 @@ Currently crafting my path through **Python Programming**, but my goals go way b
 
 - 🌱 Learning and mastering **Python**, **C++**, and **Julia**.
 - 🛠 Building cool stuff with **Tkinter**, and working on projects like:
-  - 🤖 `Mark - N 0.1 (Nexus)` — my own AI model.
+  - 🤖 `PRISM` — my own AI model.
   - 📘 `EduLytix` — a smart educational tool.
   - 🔧 `arvd_ap` — my first PyPI module!
 

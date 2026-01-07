@@ -37,7 +37,6 @@ Driven by a passion for Computer Science fundamentals and IoT, I am dedicated to
 ### 🌐 Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/aravind-sree-u-27134521a/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-  <a href="https://www.github.com/AravindSreeU" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
   <a href="https://www.x.com/@rvd_773384" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
   <a href="https://discord.com/users/rvd_2008" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a>
 </p>

@@ -1,13 +1,14 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm Aravind Sree
 
 ### Python Developer & IoT Engineer
-Dedicated to engineering smart technology for environmental protection and turning hardware insights into real-world conservation solutions. 
+Dedicated to engineering smart technology for environmental protection and turning hardware insights into real-world conservation solutions.
 
 ---
 
 ### 🚀 Featured Projects
 * **SecureVault Pro**: An offline Android password manager built with Kotlin.
 * **Project XODA**: A simulation game development initiative.
+* **System.Goodbye()**: A creative Python/PyQt6 application designed for educational farewells.
 
 ---
 
@@ -37,7 +38,22 @@ Dedicated to engineering smart technology for environmental protection and turni
 
 ---
 
-### 📫 Connect with Me
+### 🌐 Socials
+<p align="left">
+  <a href="https://www.linkedin.com/in/aravind-sree-u-27134521a/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.x.com/@rvd_773384" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
+  <a href="https://discord.com/users/rvd_2008" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+---
+
+### 📫 Contact & Info
 * 🌍 **Based in:** India
 * 🖥️ **Portfolio:** [arasamaram.in](http://arasamaram.in)
 * ✉️ **Email:** [uaravindsree@gmail.com](mailto:uaravindsree@gmail.com)

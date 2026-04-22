@@ -1,47 +1,48 @@
-# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Aravind Sree
+# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm Aravind Sree
 
-## Python Developer
-
-Driven by a passion for Computer Science fundamentals and IoT, I am dedicated to engineering smart technology that protects our environment. I focus on developing scalable, eco-conscious projects that turn hardware insights into real-world conservation solutions.
+### Python Developer & IoT Engineer
+Dedicated to engineering smart technology for environmental protection and turning hardware insights into real-world conservation solutions. 
 
 ---
 
-### 🚀 Quick Links & Info
-* 🌍 **Based in:** India
-* 🖥️ **Portfolio:** [arasamaram.in](http://arasamaram.in)
-* ✉️ **Contact:** [uaravindsree@gmail.com](mailto:uaravindsree@gmail.com)
-* 🧠 **Learning:** Flutter and Kotlin
-* 👥 **Collaborating on:** AI Integrated Projects
-* 💬 **Ask me about:** Basketball, LeBron James, or IoT 🏀
+### 🚀 Featured Projects
+* **SecureVault Pro**: An offline Android password manager built with Kotlin.
+* **Project XODA**: A simulation game development initiative.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
+**Languages & Frameworks**
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" width="36" height="36" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="36" height="36" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="36" height="36" /></a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" width="36" height="36" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="36" height="36" /></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" width="36" height="36" /></a>
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" width="36" height="36" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="36" height="36" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="36" height="36" /></a>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
+</p>
+
+**Tools & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 🌐 Socials
-<p align="left">
-  <a href="https://www.linkedin.com/in/aravind-sree-u-27134521a/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-  <a href="https://www.x.com/@rvd_773384" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
-  <a href="https://discord.com/users/rvd_2008" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a>
-</p>
+### 📊 GitHub Stats
+![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=AravindSreeU&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AravindSreeU&layout=compact&theme=tokyonight)
 
-### ☕ Support Me
+---
+
+### 📫 Connect with Me
+* 🌍 **Based in:** India
+* 🖥️ **Portfolio:** [arasamaram.in](http://arasamaram.in)
+* ✉️ **Email:** [uaravindsree@gmail.com](mailto:uaravindsree@gmail.com)
+* 💬 **Ask me about:** IoT, Basketball, or LeBron James 🏀
+
 <a href="https://www.ko-fi.com/aravindsreeu">
   <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" alt="Buy Me a Coffee" />
 </a>
